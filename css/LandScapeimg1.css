@@ -109,7 +109,7 @@
     justify-content: space-evenly;
     align-items: center;
     /* margin-top: 10px; */
-    background-image: url(../img/camera.avif);
+    background-image: url(../img/l1.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -279,7 +279,10 @@ ul{
        flex-direction: column;
        justify-content: center;
        align-items: center;
-
+    }
+    .card-img-top
+    {
+        width: 100%;
     }
     .footer-col{
         width: 100%;
